@@ -1,0 +1,48 @@
+.adminContainer {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(248, 4, 4, 0.1);
+}
+
+.adminContainer h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.uploadSection {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.uploadSection h2 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.uploadSection p {
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.fileInput {
+  display: block;
+  margin: 1rem auto;
+  padding: 1rem;
+  border: 2px dashed #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.message {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: #e9ecef;
+  color: #333;
+} 

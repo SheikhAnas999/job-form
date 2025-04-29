@@ -1,0 +1,2013 @@
+[
+
+    {
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+      "urdu_question": "اس سلسلے میں اگلا نمبر کیا ہوگا: 2، 4، 8، 16، ___؟",
+      "options": ["18", "24", "32", "64"],
+        "answer": "32",
+        "difficulty": "easy"
+    },
+      {
+        "question": "If 5 pencils cost 25 rupees, how much would 8 pencils cost at the same rate?",
+        "urdu_question": "اگر 5 پنسلوں کی قیمت 25 روپے ہے تو 8 پنسلوں کی قیمت کتنی ہوگی؟",
+        "options": ["35", "40", "45", "50"],
+        "answer": "40",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which word does not belong: Apple, Banana, Carrot, Mango?",
+        "urdu_question": "ان میں سے کون سا لفظ باقیوں سے مختلف ہے: سیب، کیلا، گاجر، آم؟",
+        "options": ["Apple", "Banana", "Carrot", "Mango"],
+        "answer": "Carrot",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which number is the smallest: 2, 0.5, 1.5, 0.25?",
+        "urdu_question": "کون سا نمبر سب سے چھوٹا ہے: 2، 0.5، 1.5، 0.25؟",
+        "options": ["2", "0.5", "1.5", "0.25"],
+        "answer": "0.25",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Find the odd one out: Dog, Cat, Elephant, Rose.",
+        "urdu_question": "الگ چیز تلاش کریں: کتا، بلی، ہاتھی، گلاب۔",
+        "options": ["Dog", "Cat", "Elephant", "Rose"],
+        "answer": "Rose",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which number comes next: 5, 10, 15, 20, ___?",
+        "urdu_question": "اگلا نمبر کیا ہوگا: 5، 10، 15، 20، ___؟",
+        "options": ["22", "25", "30", "35"],
+        "answer": "25",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If Ali is older than Bilal and Bilal is older than Ahmed, who is the youngest?",
+        "urdu_question": "اگر علی بلال سے بڑا ہے اور بلال احمد سے بڑا ہے تو سب سے چھوٹا کون ہے؟",
+        "options": ["Ali", "Bilal", "Ahmed", "Cannot say"],
+        "answer": "Ahmed",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is 15% of 200?",
+        "urdu_question": "200 کا 15 فیصد کیا ہے؟",
+        "options": ["25", "30", "35", "40"],
+        "answer": "30",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If a clock shows 3:15, what is the angle between the hour and minute hands?",
+        "urdu_question": "اگر گھڑی 3:15 دکھا رہی ہے تو گھنٹے اور منٹ کی سوئیوں کے درمیان زاویہ کیا ہوگا؟",
+        "options": ["0°", "7.5°", "15°", "30°"],
+        "answer": "7.5°",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which is heavier: 1 kg of cotton or 1 kg of iron?",
+        "urdu_question": "کون زیادہ بھاری ہے: 1 کلو کپاس یا 1 کلو لوہا؟",
+        "options": ["Cotton", "Iron", "Both are same", "Cannot say"],
+        "answer": "Both are same",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which number is missing: 3, 6, 9, __, 15?",
+        "urdu_question": "کون سا نمبر غائب ہے: 3، 6، 9، __، 15؟",
+        "options": ["10", "12", "13", "14"],
+        "answer": "12",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is half of 0.6?",
+        "urdu_question": "0.6 کا آدھا کیا ہوگا؟",
+        "options": ["0.2", "0.3", "0.4", "0.5"],
+        "answer": "0.3",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which is the opposite of 'ascend'?",
+        "urdu_question": "'چڑھنا' کا الٹ کیا ہوگا؟",
+        "options": ["Rise", "Climb", "Fall", "Grow"],
+        "answer": "Fall",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which day comes after Monday?",
+        "urdu_question": "پیر کے بعد کون سا دن آتا ہے؟",
+        "options": ["Wednesday", "Tuesday", "Thursday", "Sunday"],
+        "answer": "Tuesday",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If it takes 3 minutes to boil one egg, how many minutes to boil 3 eggs together?",
+        "urdu_question": "اگر ایک انڈہ اُبالنے میں 3 منٹ لگتے ہیں تو 3 انڈے ایک ساتھ اُبالنے میں کتنے منٹ لگیں گے؟",
+        "options": ["3", "6", "9", "12"],
+        "answer": "3",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is 9 multiplied by 7?",
+        "urdu_question": "9 کو 7 سے ضرب دینے پر کیا جواب آتا ہے؟",
+        "options": ["56", "63", "72", "81"],
+        "answer": "63",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Choose the correct spelling:",
+        "urdu_question": "صحیح ہجے چنیں:",
+        "options": ["Recieve", "Receive", "Recive", "Receeve"],
+        "answer": "Receive",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If 1 dozen eggs cost 120 rupees, how much for 6 eggs?",
+        "urdu_question": "اگر 1 درجن انڈوں کی قیمت 120 روپے ہے تو 6 انڈوں کی قیمت کتنی ہوگی؟",
+        "options": ["30", "60", "90", "120"],
+        "answer": "60",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which word is the synonym of 'happy'?",
+        "urdu_question": "'خوش' کا مترادف لفظ کون سا ہے؟",
+        "options": ["Sad", "Angry", "Joyful", "Tired"],
+        "answer": "Joyful",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If you are facing north and turn 90 degrees right, which direction are you facing?",
+        "urdu_question": "اگر آپ شمال کی طرف دیکھ رہے ہیں اور 90 ڈگری دائیں مڑیں تو کس طرف ہوں گے؟",
+        "options": ["East", "West", "South", "North"],
+        "answer": "East",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many sides does a pentagon have?",
+        "urdu_question": "پینٹاگون میں کتنے اطراف ہوتے ہیں؟",
+        "options": ["4", "5", "6", "7"],
+        "answer": "5",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What comes next: 1, 1, 2, 3, 5, 8, ___?",
+        "urdu_question": "اگلا نمبر کیا ہوگا: 1، 1، 2، 3، 5، 8، ___؟",
+        "options": ["10", "12", "13", "15"],
+        "answer": "13",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which is greater: 0.8 or 0.88?",
+        "urdu_question": "کون سا بڑا ہے: 0.8 یا 0.88؟",
+        "options": ["0.8", "0.88", "Both equal", "Cannot say"],
+        "answer": "0.88",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "urdu_question": "کس ملک کو 'طلوع ہوتے سورج کی سرزمین' کہا جاتا ہے؟",
+        "options": ["China", "Japan", "India", "Korea"],
+        "answer": "Japan",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "urdu_question": "سورج کے سب سے قریب سیارہ کون سا ہے؟",
+        "options": ["Earth", "Venus", "Mercury", "Mars"],
+        "answer": "Mercury",
+        "difficulty": "easy"
+      },
+      {
+        "question": "A man walked 5 km north, then 3 km east. How far is he from start (approx)?",
+        "urdu_question": "ایک آدمی نے 5 کلومیٹر شمال اور 3 کلومیٹر مشرق کی طرف چلا۔ وہ اپنے آغاز سے تقریباً کتنی دور ہے؟",
+        "options": ["5 km", "6 km", "7 km", "8 km"],
+        "answer": "6 km",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the next letter: A, C, E, G, ___?",
+        "urdu_question": "اگلا حرف کیا ہوگا: A، C، E، G، ___؟",
+        "options": ["H", "I", "J", "K"],
+        "answer": "I",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many legs do three cats have?",
+        "urdu_question": "تین بلیوں کی کتنی ٹانگیں ہوتی ہیں؟",
+        "options": ["8", "10", "12", "14"],
+        "answer": "12",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If the cost of 2 shirts is 1000 rupees, what is the cost of 1 shirt?",
+        "urdu_question": "اگر 2 قمیضوں کی قیمت 1000 روپے ہے تو 1 قمیض کی قیمت کتنی ہوگی؟",
+        "options": ["200", "300", "400", "500"],
+        "answer": "500",
+        "difficulty": "easy"
+      },
+
+
+      
+        {
+          "question": "Which number completes the series: 7, 14, 28, 56, ___?",
+          "urdu_question": "کون سا نمبر سلسلے کو مکمل کرتا ہے: 7، 14، 28، 56، ___؟",
+          "options": ["84", "96", "112", "126"],
+          "answer": "112",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which word is most similar to 'rapid'?",
+          "urdu_question": "'تیز' کے سب سے قریب مطلب والا لفظ کون سا ہے؟",
+          "options": ["Slow", "Fast", "Heavy", "Light"],
+          "answer": "Fast",
+          "difficulty": "easy"
+        },
+        {
+          "question": "If 8 workers complete a task in 6 days, how many days would 4 workers take?",
+          "urdu_question": "اگر 8 مزدور 6 دن میں کام مکمل کرتے ہیں تو 4 مزدور کتنے دن میں مکمل کریں گے؟",
+          "options": ["6", "8", "10", "12"],
+          "answer": "12",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is 25% of 240?",
+          "urdu_question": "240 کا 25 فیصد کیا ہوگا؟",
+          "options": ["60", "70", "80", "90"],
+          "answer": "60",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which is the odd one out: Book, Pen, Pencil, Plate?",
+          "urdu_question": "الگ چیز تلاش کریں: کتاب، قلم، پنسل، پلیٹ؟",
+          "options": ["Book", "Pen", "Pencil", "Plate"],
+          "answer": "Plate",
+          "difficulty": "easy"
+        },
+        {
+          "question": "A train travels at 60 km/h. How long will it take to cover 180 km?",
+          "urdu_question": "ٹرین 60 کلومیٹر فی گھنٹہ کی رفتار سے چلتی ہے۔ 180 کلومیٹر طے کرنے میں کتنا وقت لگے گا؟",
+          "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+          "answer": "3 hours",
+          "difficulty": "easy"
+        },
+        {
+          "question": "If you multiply a number by 2 and add 6, you get 20. What is the number?",
+          "urdu_question": "اگر آپ ایک نمبر کو 2 سے ضرب دے کر 6 جمع کریں تو جواب 20 آتا ہے۔ وہ نمبر کیا ہے؟",
+          "options": ["6", "7", "8", "9"],
+          "answer": "7",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which number is missing: 1, 4, 9, 16, 25, ___?",
+          "urdu_question": "کون سا نمبر غائب ہے: 1، 4، 9، 16، 25، ___؟",
+          "options": ["30", "32", "36", "40"],
+          "answer": "36",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is the capital city of Australia?",
+          "urdu_question": "آسٹریلیا کا دارالحکومت کون سا ہے؟",
+          "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+          "answer": "Canberra",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which comes next: Z, X, V, T, ___?",
+          "urdu_question": "اگلا حرف کیا ہوگا: Z، X، V، T، ___؟",
+          "options": ["R", "S", "Q", "P"],
+          "answer": "R",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Complete the analogy: Bird is to Fly as Fish is to ___?",
+          "urdu_question": "موازنہ مکمل کریں: پرندہ کا تعلق اڑنے سے ہے جیسے مچھلی کا تعلق ___ سے ہے۔",
+          "options": ["Run", "Swim", "Walk", "Dive"],
+          "answer": "Swim",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which number does not belong: 2, 3, 5, 7, 11, 14, 17?",
+          "urdu_question": "کون سا نمبر مختلف ہے: 2، 3، 5، 7، 11، 14، 17؟",
+          "options": ["11", "14", "17", "5"],
+          "answer": "14",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Find the missing number: 2, 5, 10, 17, ___, 37.",
+          "urdu_question": "غائب نمبر تلاش کریں: 2، 5، 10، 17، ___، 37۔",
+          "options": ["24", "26", "28", "30"],
+          "answer": "26",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A shopkeeper sold an item for 600 rupees at a loss of 20%. What was the original price?",
+          "urdu_question": "ایک دکاندار نے 600 روپے میں 20 فیصد نقصان پر چیز بیچی۔ اصل قیمت کیا تھی؟",
+          "options": ["700", "720", "750", "800"],
+          "answer": "750",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which figure is different: Circle, Square, Triangle, Cylinder?",
+          "urdu_question": "کون سی شکل مختلف ہے: دائرہ، مربع، مثلث، سلنڈر؟",
+          "options": ["Circle", "Square", "Triangle", "Cylinder"],
+          "answer": "Cylinder",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A farmer has 17 sheep and all but 9 run away. How many are left?",
+          "urdu_question": "ایک کسان کے پاس 17 بھیڑیں ہیں، اور 9 چھوڑ کر باقی سب بھاگ جاتی ہیں۔ کتنی بچتی ہیں؟",
+          "options": ["8", "9", "17", "0"],
+          "answer": "9",
+          "difficulty": "medium"
+        },
+        {
+          "question": "If a box holds 24 chocolates, how many chocolates in 7 boxes?",
+          "urdu_question": "اگر ایک ڈبہ 24 چاکلیٹس رکھتا ہے تو 7 ڈبوں میں کتنی چاکلیٹس ہوں گی؟",
+          "options": ["144", "168", "180", "200"],
+          "answer": "168",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which is greater: three-fourths or two-thirds?",
+          "urdu_question": "کون سا بڑا ہے: تین چوتھائی یا دو تہائی؟",
+          "options": ["Three-fourths", "Two-thirds", "Equal", "Cannot say"],
+          "answer": "Three-fourths",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is the value of 3² + 4²?",
+          "urdu_question": "3² + 4² کا حاصل کیا ہوگا؟",
+          "options": ["12", "16", "25", "50"],
+          "answer": "25",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In a code language, if CAT = 24, DOG = 26, then BAT = ?",
+          "urdu_question": "ایک خفیہ زبان میں اگر CAT = 24 اور DOG = 26 ہو تو BAT کی ویلیو کیا ہوگی؟",
+          "options": ["20", "22", "24", "26"],
+          "answer": "22",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which gas do plants use for photosynthesis?",
+          "urdu_question": "پودے کس گیس کو ضیائی تالیف (Photosynthesis) کے لیے استعمال کرتے ہیں؟",
+          "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+          "answer": "Carbon Dioxide",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Arrange these numbers in ascending order: 0.8, 0.5, 0.88, 0.15",
+          "urdu_question": "ان نمبروں کو بڑھتے ہوئے ترتیب میں لگائیں: 0.8، 0.5، 0.88، 0.15",
+          "options": ["0.15, 0.5, 0.8, 0.88", "0.5, 0.15, 0.8, 0.88", "0.15, 0.8, 0.5, 0.88", "0.5, 0.8, 0.15, 0.88"],
+          "answer": "0.15, 0.5, 0.8, 0.88",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which two months have 30 days?",
+          "urdu_question": "کون سے دو مہینے 30 دن کے ہوتے ہیں؟",
+          "options": ["April and June", "March and May", "July and August", "February and November"],
+          "answer": "April and June",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Solve: 3 + 6 × (5 + 4) ÷ 3 - 7",
+          "urdu_question": "حل کریں: 3 + 6 × (5 + 4) ÷ 3 - 7",
+          "options": ["8", "10", "11", "12"],
+          "answer": "11",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which continent is the largest in area?",
+          "urdu_question": "رقبے کے لحاظ سے سب سے بڑا براعظم کون سا ہے؟",
+          "options": ["Africa", "Asia", "Europe", "America"],
+          "answer": "Asia",
+          "difficulty": "easy"
+        },
+        {
+          "question": "If a person saves 500 rupees every month, how much will he save in 1 year?",
+          "urdu_question": "اگر کوئی شخص ہر ماہ 500 روپے بچاتا ہے تو ایک سال میں کتنی بچت کرے گا؟",
+          "options": ["6000", "5500", "5000", "6500"],
+          "answer": "6000",
+          "difficulty": "easy"
+        },
+        {
+          "question": "If in a certain language, FLOWER is coded as EKNVDQ, how is GARDEN coded?",
+          "urdu_question": "اگر کسی زبان میں FLOWER کو EKNVDQ کوڈ کیا جائے تو GARDEN کو کیسے کوڈ کیا جائے گا؟",
+          "options": ["FZQCEM", "FBQCEM", "HZQCEM", "HZRDEN"],
+          "answer": "FZQCEM",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which is faster: Sound or Light?",
+          "urdu_question": "کون زیادہ تیز ہے: آواز یا روشنی؟",
+          "options": ["Sound", "Light", "Both same", "Cannot say"],
+          "answer": "Light",
+          "difficulty": "easy"
+        },
+            {
+              "question": "If 3 books cost 150 rupees, how much would 5 books cost at the same rate?",
+              "urdu_question": "اگر 3 کتابوں کی قیمت 150 روپے ہے تو 5 کتابوں کی قیمت کتنی ہوگی؟",
+              "options": ["200", "220", "240", "250"],
+              "answer": "250",
+              "difficulty": "easy"
+            },
+            {
+              "question": "Find the odd one: Mango, Banana, Potato, Orange.",
+              "urdu_question": "ان میں سے مختلف چیز تلاش کریں: آم، کیلا، آلو، سنگترہ۔",
+              "options": ["Mango", "Banana", "Potato", "Orange"],
+              "answer": "Potato",
+              "difficulty": "easy"
+            },
+            {
+              "question": "What comes next: 3, 6, 11, 18, ___?",
+              "urdu_question": "اگلا نمبر کیا ہوگا: 3، 6، 11، 18، ___؟",
+              "options": ["25", "26", "27", "28"],
+              "answer": "27",
+              "difficulty": "medium"
+            },
+            {
+              "question": "What is the square root of 121?",
+              "urdu_question": "121 کا مربع جذر کیا ہے؟",
+              "options": ["10", "11", "12", "13"],
+              "answer": "11",
+              "difficulty": "easy"
+            },
+            {
+              "question": "If a car travels 90 km in 1.5 hours, what is its speed in km/h?",
+              "urdu_question": "اگر ایک کار 1.5 گھنٹے میں 90 کلومیٹر طے کرتی ہے تو اس کی رفتار کتنی ہے؟",
+              "options": ["50", "60", "70", "80"],
+              "answer": "60",
+              "difficulty": "medium"
+            },
+            {
+              "question": "A man earns 2500 rupees per week. How much will he earn in 4 weeks?",
+              "urdu_question": "ایک آدمی ہفتے میں 2500 روپے کماتا ہے۔ چار ہفتوں میں کتنے کمائے گا؟",
+              "options": ["8000", "9000", "10000", "11000"],
+              "answer": "10000",
+              "difficulty": "easy"
+            },
+            {
+              "question": "If 2 pencils cost 15 rupees, how much for 10 pencils?",
+              "urdu_question": "اگر 2 پنسلوں کی قیمت 15 روپے ہے تو 10 پنسلوں کی قیمت کتنی ہوگی؟",
+              "options": ["60", "65", "70", "75"],
+              "answer": "75",
+              "difficulty": "easy"
+            },
+            {
+              "question": "Complete the series: 5, 9, 17, 33, ___?",
+              "urdu_question": "سلسلہ مکمل کریں: 5، 9، 17، 33، ___؟",
+              "options": ["49", "53", "65", "73"],
+              "answer": "65",
+              "difficulty": "hard"
+            },
+            {
+              "question": "Which is the odd one: Cat, Dog, Cow, Tiger?",
+              "urdu_question": "ان میں سے مختلف چیز تلاش کریں: بلی، کتا، گائے، شیر۔",
+              "options": ["Cat", "Dog", "Cow", "Tiger"],
+              "answer": "Cow",
+              "difficulty": "medium"
+            },
+            {
+              "question": "If A is the brother of B, and B is the mother of C, how is A related to C?",
+              "urdu_question": "اگر A، B کا بھائی ہے اور B، C کی ماں ہے تو A کا C سے کیا رشتہ ہے؟",
+              "options": ["Father", "Uncle", "Brother", "Cousin"],
+              "answer": "Uncle",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Which number is a multiple of both 3 and 5?",
+              "urdu_question": "کون سا نمبر 3 اور 5 دونوں کا مضرب ہے؟",
+              "options": ["10", "15", "18", "25"],
+              "answer": "15",
+              "difficulty": "easy"
+            },
+            {
+              "question": "Find the missing number: 6, 11, 21, 41, ___?",
+              "urdu_question": "غائب نمبر تلاش کریں: 6، 11، 21، 41، ___؟",
+              "options": ["61", "71", "81", "91"],
+              "answer": "81",
+              "difficulty": "hard"
+            },
+            {
+              "question": "The day after tomorrow is Saturday. What day was yesterday?",
+              "urdu_question": "اگر پرسوں ہفتہ ہے تو کل کون سا دن تھا؟",
+              "options": ["Wednesday", "Thursday", "Friday", "Tuesday"],
+              "answer": "Thursday",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Which figure has 6 sides?",
+              "urdu_question": "کس شکل کے 6 اطراف ہوتے ہیں؟",
+              "options": ["Triangle", "Pentagon", "Hexagon", "Octagon"],
+              "answer": "Hexagon",
+              "difficulty": "easy"
+            },
+            {
+              "question": "In a certain code, if RED is coded as UHG, how is BLUE coded?",
+              "urdu_question": "ایک خفیہ زبان میں اگر RED کو UHG کوڈ کیا جائے تو BLUE کیسے کوڈ ہوگا؟",
+              "options": ["EOLD", "EPRH", "ESRI", "FOQG"],
+              "answer": "EPRH",
+              "difficulty": "hard"
+            },
+            {
+              "question": "What is 20% of 500?",
+              "urdu_question": "500 کا 20 فیصد کیا ہوگا؟",
+              "options": ["50", "80", "100", "120"],
+              "answer": "100",
+              "difficulty": "easy"
+            },
+            {
+              "question": "If 1 litre of milk costs 80 rupees, what will 2.5 litres cost?",
+              "urdu_question": "اگر 1 لیٹر دودھ کی قیمت 80 روپے ہے تو 2.5 لیٹر کی قیمت کیا ہوگی؟",
+              "options": ["180", "200", "220", "250"],
+              "answer": "200",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Which is the largest even number below 20?",
+              "urdu_question": "20 سے کم سب سے بڑا جفت نمبر کون سا ہے؟",
+              "options": ["16", "18", "20", "22"],
+              "answer": "18",
+              "difficulty": "easy"
+            },
+            {
+              "question": "What is the meaning of the word 'observe'?",
+              "urdu_question": "'Observe' کا کیا مطلب ہے؟",
+              "options": ["Fight", "See", "Run", "Catch"],
+              "answer": "See",
+              "difficulty": "easy"
+            },
+            {
+              "question": "A man spends half of his salary on food, 1/4 on rent, and saves the rest. What fraction does he save?",
+              "urdu_question": "ایک آدمی آدھی تنخواہ کھانے پر، ایک چوتھائی کرائے پر خرچ کرتا ہے۔ باقی کتنی بچت ہوتی ہے؟",
+              "options": ["1/4", "1/3", "1/2", "2/3"],
+              "answer": "1/4",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Which number is a prime number?",
+              "urdu_question": "کون سا نمبر عدد اول ہے؟",
+              "options": ["4", "6", "11", "15"],
+              "answer": "11",
+              "difficulty": "easy"
+            },
+            {
+              "question": "What comes next: 100, 96, 92, 88, ___?",
+              "urdu_question": "اگلا نمبر کیا ہوگا: 100، 96، 92، 88، ___؟",
+              "options": ["84", "85", "86", "87"],
+              "answer": "84",
+              "difficulty": "easy"
+            },
+            {
+              "question": "Which one is not a mammal: Whale, Dolphin, Penguin, Bat?",
+              "urdu_question": "ان میں سے کون سا جانور دودھ پلانے والا نہیں ہے: وہیل، ڈالفن، پینگوئن، بیٹ؟",
+              "options": ["Whale", "Dolphin", "Penguin", "Bat"],
+              "answer": "Penguin",
+              "difficulty": "medium"
+            },
+            {
+              "question": "What is the missing number: 2, 4, 8, 32, 256, ___?",
+              "urdu_question": "غائب نمبر کیا ہے: 2، 4، 8، 32، 256، ___؟",
+              "options": ["1024", "2048", "4096", "8192"],
+              "answer": "4096",
+              "difficulty": "hard"
+            },
+            {
+              "question": "How many hours are there in 3 days?",
+              "urdu_question": "تین دنوں میں کتنے گھنٹے ہوتے ہیں؟",
+              "options": ["48", "60", "72", "84"],
+              "answer": "72",
+              "difficulty": "easy"
+            },
+            {
+              "question": "What is the cube of 3?",
+              "urdu_question": "3 کا مکعب (cube) کیا ہے؟",
+              "options": ["9", "18", "27", "36"],
+              "answer": "27",
+              "difficulty": "easy"
+            },
+            {
+              "question": "If a person walks 5 km north, 3 km east and 4 km south, how far is he from the starting point?",
+              "urdu_question": "اگر کوئی شخص 5 کلومیٹر شمال، 3 کلومیٹر مشرق اور 4 کلومیٹر جنوب چلے تو ابتدا سے کتنے فاصلے پر ہوگا؟",
+              "options": ["2 km", "3 km", "4 km", "5 km"],
+              "answer": "5 km",
+              "difficulty": "hard"
+            },
+            {
+              "question": "What is 3/4 of 200?",
+              "urdu_question": "200 کا تین چوتھائی (3/4) حصہ کیا ہوگا؟",
+              "options": ["100", "125", "150", "175"],
+              "answer": "150",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Which country is known as 'The Land of White Elephants'?",
+              "urdu_question": "کس ملک کو 'سفید ہاتھیوں کی سرزمین' کہا جاتا ہے؟",
+              "options": ["Thailand", "India", "Sri Lanka", "Malaysia"],
+              "answer": "Thailand",
+              "difficulty": "medium"
+            },
+
+                {
+                  "question": "What is 12 multiplied by 8?",
+                  "urdu_question": "12 کو 8 سے ضرب دینے پر کیا حاصل ہوگا؟",
+                  "options": ["88", "96", "100", "104"],
+                  "answer": "96",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Which number is missing: 13, 16, 19, ___, 25?",
+                  "urdu_question": "کون سا نمبر غائب ہے: 13، 16، 19، ___، 25؟",
+                  "options": ["21", "22", "23", "24"],
+                  "answer": "22",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "If 7 pens cost 210 rupees, what is the cost of 1 pen?",
+                  "urdu_question": "اگر 7 قلموں کی قیمت 210 روپے ہے تو ایک قلم کی قیمت کیا ہوگی؟",
+                  "options": ["20", "25", "30", "35"],
+                  "answer": "30",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Find the odd one out: Lion, Tiger, Wolf, Eagle.",
+                  "urdu_question": "الگ چیز تلاش کریں: شیر، چیتا، بھیڑیا، عقاب۔",
+                  "options": ["Lion", "Tiger", "Wolf", "Eagle"],
+                  "answer": "Eagle",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "What comes next: 2, 6, 12, 20, ___?",
+                  "urdu_question": "اگلا نمبر کیا ہوگا: 2، 6، 12، 20، ___؟",
+                  "options": ["28", "30", "32", "34"],
+                  "answer": "30",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "Which number is a multiple of 9: 17, 27, 37, 47?",
+                  "urdu_question": "کون سا نمبر 9 کا مضرب ہے: 17، 27، 37، 47؟",
+                  "options": ["17", "27", "37", "47"],
+                  "answer": "27",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Solve: 15 ÷ (5 × 3) = ?",
+                  "urdu_question": "حل کریں: 15 ÷ (5 × 3) = ؟",
+                  "options": ["0", "1", "2", "3"],
+                  "answer": "1",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "What is the missing letter in the sequence: D, G, J, M, ___?",
+                  "urdu_question": "سلسلے میں کون سا حرف غائب ہے: D، G، J، M، ___؟",
+                  "options": ["O", "P", "Q", "R"],
+                  "answer": "P",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "If A is taller than B and B is taller than C, who is the shortest?",
+                  "urdu_question": "اگر A، B سے لمبا ہے اور B، C سے لمبا ہے تو سب سے چھوٹا کون ہے؟",
+                  "options": ["A", "B", "C", "Cannot say"],
+                  "answer": "C",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Find the missing number: 7, 14, 28, ___, 112.",
+                  "urdu_question": "غائب نمبر تلاش کریں: 7، 14، 28، ___، 112۔",
+                  "options": ["42", "56", "72", "84"],
+                  "answer": "56",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Ali is twice as old as Bilal. If Bilal is 6 years old, how old is Ali?",
+                  "urdu_question": "علی بلال سے دگنا بڑا ہے۔ اگر بلال 6 سال کا ہے تو علی کی عمر کتنی ہوگی؟",
+                  "options": ["10", "12", "14", "18"],
+                  "answer": "12",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "What is the sum of the angles in a triangle?",
+                  "urdu_question": "مثلث کے تمام زاویوں کا مجموعہ کیا ہوتا ہے؟",
+                  "options": ["90°", "180°", "270°", "360°"],
+                  "answer": "180°",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Which one of these numbers is not a square number: 1, 4, 9, 15?",
+                  "urdu_question": "ان نمبروں میں سے کون سا مربع نمبر نہیں ہے: 1، 4، 9، 15؟",
+                  "options": ["1", "4", "9", "15"],
+                  "answer": "15",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Complete the series: 81, 64, 49, 36, ___?",
+                  "urdu_question": "سلسلہ مکمل کریں: 81، 64، 49، 36، ___؟",
+                  "options": ["25", "26", "27", "28"],
+                  "answer": "25",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "If 3 baskets have 45 apples in total, how many apples in each basket equally?",
+                  "urdu_question": "اگر 3 ٹوکریوں میں کل 45 سیب ہیں تو ہر ٹوکری میں کتنے سیب ہوں گے؟",
+                  "options": ["13", "14", "15", "16"],
+                  "answer": "15",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Find the missing number: 2, 3, 5, 9, 17, ___?",
+                  "urdu_question": "غائب نمبر تلاش کریں: 2، 3، 5، 9، 17، ___؟",
+                  "options": ["33", "31", "29", "27"],
+                  "answer": "33",
+                  "difficulty": "hard"
+                },
+                {
+                  "question": "Choose the correct synonym for 'small'.",
+                  "urdu_question": "'Small' کا درست مترادف چنیں۔",
+                  "options": ["Big", "Tiny", "Tall", "Wide"],
+                  "answer": "Tiny",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Solve: 8 + (12 ÷ 3 × 2) - 5",
+                  "urdu_question": "حل کریں: 8 + (12 ÷ 3 × 2) - 5",
+                  "options": ["9", "10", "11", "12"],
+                  "answer": "11",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "Which month comes after August?",
+                  "urdu_question": "اگست کے بعد کون سا مہینہ آتا ہے؟",
+                  "options": ["September", "October", "November", "December"],
+                  "answer": "September",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "Which one is heavier: 1000 grams or 1 kilogram?",
+                  "urdu_question": "کون زیادہ وزنی ہے: 1000 گرام یا 1 کلوگرام؟",
+                  "options": ["1000 grams", "1 kilogram", "Both same", "Cannot say"],
+                  "answer": "Both same",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "If SALE is coded as 7315, then SEAL is coded as?",
+                  "urdu_question": "اگر SALE کو 7315 کوڈ کیا گیا ہے تو SEAL کو کیسے کوڈ کیا جائے گا؟",
+                  "options": ["7513", "7531", "7153", "7135"],
+                  "answer": "7513",
+                  "difficulty": "hard"
+                },
+                {
+                  "question": "What is the capital city of Canada?",
+                  "urdu_question": "کینیڈا کا دارالحکومت کون سا ہے؟",
+                  "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+                  "answer": "Ottawa",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "A train leaves at 3:15 PM and reaches at 6:45 PM. How long was the journey?",
+                  "urdu_question": "ایک ٹرین شام 3:15 پر روانہ ہوتی ہے اور شام 6:45 پر پہنچتی ہے۔ سفر کا دورانیہ کیا تھا؟",
+                  "options": ["2 hours 30 minutes", "3 hours", "3 hours 30 minutes", "4 hours"],
+                  "answer": "3 hours 30 minutes",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "Which number is the largest: 0.9, 0.99, 0.89, 0.91?",
+                  "urdu_question": "کون سا نمبر سب سے بڑا ہے: 0.9، 0.99، 0.89، 0.91؟",
+                  "options": ["0.9", "0.99", "0.89", "0.91"],
+                  "answer": "0.99",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "If 5 workers build a wall in 8 hours, how long will 10 workers take?",
+                  "urdu_question": "اگر 5 مزدور 8 گھنٹوں میں دیوار بناتے ہیں تو 10 مزدوروں کو کتنا وقت لگے گا؟",
+                  "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+                  "answer": "4 hours",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "What is the result of (5 + 3) × (6 - 2)?",
+                  "urdu_question": "(5 + 3) × (6 - 2) کا نتیجہ کیا ہوگا؟",
+                  "options": ["24", "28", "32", "36"],
+                  "answer": "32",
+                  "difficulty": "medium"
+                },
+                {
+                  "question": "What comes after the letter 'L' in the English alphabet?",
+                  "urdu_question": "انگریزی حروف تہجی میں 'L' کے بعد کون سا حرف آتا ہے؟",
+                  "options": ["K", "M", "N", "O"],
+                  "answer": "M",
+                  "difficulty": "easy"
+                },
+                {
+                  "question": "What is 5³ (5 cubed)?",
+                  "urdu_question": "5 کا مکعب (5³) کیا ہوگا؟",
+                  "options": ["100", "125", "150", "175"],
+                  "answer": "125",
+                  "difficulty": "easy"
+                },
+                    {
+                      "question": "What is 45 divided by 9?",
+                      "urdu_question": "45 کو 9 سے تقسیم کرنے پر کیا حاصل ہوگا؟",
+                      "options": ["4", "5", "6", "7"],
+                      "answer": "5",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "If 1 kilogram of sugar costs 80 rupees, how much will 2.5 kilograms cost?",
+                      "urdu_question": "اگر 1 کلو چینی کی قیمت 80 روپے ہے تو 2.5 کلو کی قیمت کتنی ہوگی؟",
+                      "options": ["180", "190", "200", "210"],
+                      "answer": "200",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "What is the next number in the pattern: 1, 3, 7, 15, 31, ___?",
+                      "urdu_question": "اگلا نمبر کیا ہوگا: 1، 3، 7، 15، 31، ___؟",
+                      "options": ["49", "55", "63", "64"],
+                      "answer": "63",
+                      "difficulty": "hard"
+                    },
+                    {
+                      "question": "Which animal is known as the 'King of the Jungle'?",
+                      "urdu_question": "کس جانور کو 'جنگل کا بادشاہ' کہا جاتا ہے؟",
+                      "options": ["Tiger", "Lion", "Elephant", "Bear"],
+                      "answer": "Lion",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Which is the odd one: March, May, July, November?",
+                      "urdu_question": "ان میں سے مختلف مہینہ کون سا ہے: مارچ، مئی، جولائی، نومبر؟",
+                      "options": ["March", "May", "July", "November"],
+                      "answer": "November",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "Solve: (18 ÷ 3) + (12 ÷ 4)",
+                      "urdu_question": "(18 ÷ 3) + (12 ÷ 4) کا حاصل کیا ہوگا؟",
+                      "options": ["8", "9", "10", "11"],
+                      "answer": "10",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Which letter comes next: B, D, F, H, ___?",
+                      "urdu_question": "اگلا حرف کیا ہوگا: B، D، F، H، ___؟",
+                      "options": ["I", "J", "K", "L"],
+                      "answer": "J",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Which number is a perfect square: 8, 16, 20, 24?",
+                      "urdu_question": "کون سا نمبر مکمل مربع ہے: 8، 16، 20، 24؟",
+                      "options": ["8", "16", "20", "24"],
+                      "answer": "16",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "A train running at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
+                      "urdu_question": "90 کلومیٹر فی گھنٹہ کی رفتار سے چلنے والی ٹرین 10 سیکنڈ میں ایک کھمبے کو پار کرتی ہے۔ ٹرین کی لمبائی کتنی ہے؟",
+                      "options": ["150 meters", "200 meters", "250 meters", "300 meters"],
+                      "answer": "250 meters",
+                      "difficulty": "hard"
+                    },
+                    {
+                      "question": "Which color do you get by mixing red and yellow?",
+                      "urdu_question": "سرخ اور پیلا رنگ ملا کر کون سا رنگ بنتا ہے؟",
+                      "options": ["Orange", "Green", "Purple", "Brown"],
+                      "answer": "Orange",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Find the missing number: 9, 16, 25, 36, ___?",
+                      "urdu_question": "غائب نمبر تلاش کریں: 9، 16، 25، 36، ___؟",
+                      "options": ["45", "46", "47", "49"],
+                      "answer": "49",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "If a shirt is priced at 800 rupees and there is a 10% discount, what is the price after discount?",
+                      "urdu_question": "اگر ایک قمیض کی قیمت 800 روپے ہے اور 10٪ رعایت دی جائے تو رعایت کے بعد قیمت کیا ہوگی؟",
+                      "options": ["700", "720", "740", "760"],
+                      "answer": "720",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "Which number is missing: 50, 45, 40, 35, ___?",
+                      "urdu_question": "کون سا نمبر غائب ہے: 50، 45، 40، 35، ___؟",
+                      "options": ["25", "30", "31", "32"],
+                      "answer": "30",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Which city is known as the City of Lights?",
+                      "urdu_question": "کس شہر کو 'روشنیوں کا شہر' کہا جاتا ہے؟",
+                      "options": ["Paris", "New York", "London", "Tokyo"],
+                      "answer": "Paris",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "A clock is kept upside down and it shows 6:30. What is the correct time?",
+                      "urdu_question": "اگر ایک گھڑی الٹی رکھی جائے اور 6:30 دکھائے تو اصل وقت کیا ہوگا؟",
+                      "options": ["12:30", "6:30", "3:30", "9:30"],
+                      "answer": "9:30",
+                      "difficulty": "hard"
+                    },
+                    {
+                      "question": "What is the sum of first five natural numbers?",
+                      "urdu_question": "پہلے پانچ قدرتی نمبروں کا مجموعہ کیا ہوگا؟",
+                      "options": ["10", "12", "14", "15"],
+                      "answer": "15",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "What is the currency of Japan?",
+                      "urdu_question": "جاپان کی کرنسی کا نام کیا ہے؟",
+                      "options": ["Yuan", "Yen", "Won", "Dollar"],
+                      "answer": "Yen",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "If in a certain language, SUN = TVP, then MOON = ?",
+                      "urdu_question": "اگر کسی خفیہ زبان میں SUN کو TVP کہا جاتا ہے تو MOON کو کیا کہا جائے گا؟",
+                      "options": ["NPPQ", "NPPM", "NPPN", "MPPN"],
+                      "answer": "NPPQ",
+                      "difficulty": "hard"
+                    },
+                    {
+                      "question": "Which number is divisible by 4: 22, 34, 48, 53?",
+                      "urdu_question": "کون سا نمبر 4 سے پورا تقسیم ہوتا ہے: 22، 34، 48، 53؟",
+                      "options": ["22", "34", "48", "53"],
+                      "answer": "48",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Solve: (7 × 4) + (8 × 5)",
+                      "urdu_question": "(7 × 4) + (8 × 5) حل کریں۔",
+                      "options": ["66", "67", "68", "69"],
+                      "answer": "68",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "Which metal is liquid at room temperature?",
+                      "urdu_question": "کون سا دھات کمرے کے درجہ حرارت پر مائع حالت میں ہوتا ہے؟",
+                      "options": ["Iron", "Silver", "Mercury", "Aluminum"],
+                      "answer": "Mercury",
+                      "difficulty": "easy"
+                    },
+                    {
+                      "question": "Find the missing number: 3, 8, 15, 24, ___?",
+                      "urdu_question": "غائب نمبر تلاش کریں: 3، 8، 15، 24، ___؟",
+                      "options": ["33", "34", "35", "36"],
+                      "answer": "35",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "If today is Monday, what day will it be after 19 days?",
+                      "urdu_question": "اگر آج پیر ہے تو 19 دن بعد کون سا دن ہوگا؟",
+                      "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+                      "answer": "Saturday",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "A shopkeeper sells a product at a 15% profit. If the cost price is 400 rupees, what is the selling price?",
+                      "urdu_question": "اگر ایک دکاندار 400 روپے کی قیمت پر 15٪ منافع کماتا ہے تو فروخت کی قیمت کیا ہوگی؟",
+                      "options": ["450", "460", "470", "480"],
+                      "answer": "460",
+                      "difficulty": "medium"
+                    },
+                    {
+                      "question": "Which gas do humans breathe in most heavily?",
+                      "urdu_question": "انسان عام طور پر کون سی گیس زیادہ سانس لیتے ہیں؟",
+                      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+                      "answer": "Nitrogen",
+                      "difficulty": "hard"
+                    },
+                    
+                        {
+                          "question": "Which number comes after 88?",
+                          "urdu_question": "88 کے بعد کون سا نمبر آتا ہے؟",
+                          "options": ["89", "90", "91", "92"],
+                          "answer": "89",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "If 10 bananas cost 120 rupees, what will be the price of 15 bananas?",
+                          "urdu_question": "اگر 10 کیلے 120 روپے کے ہیں تو 15 کیلے کتنے کے ہوں گے؟",
+                          "options": ["160", "170", "180", "190"],
+                          "answer": "180",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "Complete the sequence: 5, 10, 20, 40, ___?",
+                          "urdu_question": "سلسلہ مکمل کریں: 5، 10، 20، 40، ___؟",
+                          "options": ["60", "70", "80", "90"],
+                          "answer": "80",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Which day comes after Thursday?",
+                          "urdu_question": "جمعرات کے بعد کون سا دن آتا ہے؟",
+                          "options": ["Friday", "Saturday", "Sunday", "Monday"],
+                          "answer": "Friday",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "How many months have 31 days?",
+                          "urdu_question": "کتنے مہینوں میں 31 دن ہوتے ہیں؟",
+                          "options": ["5", "6", "7", "8"],
+                          "answer": "7",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "If a triangle has two sides of equal length, what type of triangle is it?",
+                          "urdu_question": "اگر مثلث کی دو اطراف کی لمبائی برابر ہو تو اسے کیا کہتے ہیں؟",
+                          "options": ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
+                          "answer": "Isosceles",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "Which is greater: 2/3 or 3/5?",
+                          "urdu_question": "کون سا بڑا ہے: 2/3 یا 3/5؟",
+                          "options": ["2/3", "3/5", "Equal", "Cannot say"],
+                          "answer": "2/3",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Which number should come next: 2, 4, 8, 32, 256, ___?",
+                          "urdu_question": "اگلا نمبر کیا ہوگا: 2، 4، 8، 32، 256، ___؟",
+                          "options": ["512", "1024", "2048", "4096"],
+                          "answer": "2048",
+                          "difficulty": "hard"
+                        },
+                        {
+                          "question": "Which metal is most abundant in the Earth's crust?",
+                          "urdu_question": "زمین کی پرت میں سب سے زیادہ پایا جانے والا دھات کون سا ہے؟",
+                          "options": ["Iron", "Aluminum", "Gold", "Copper"],
+                          "answer": "Aluminum",
+                          "difficulty": "hard"
+                        },
+                        {
+                          "question": "Which city is known as the Big Apple?",
+                          "urdu_question": "کس شہر کو 'بگ ایپل' کہا جاتا ہے؟",
+                          "options": ["Los Angeles", "New York", "Chicago", "San Francisco"],
+                          "answer": "New York",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "Solve: (25 + 5) ÷ (10 - 5)",
+                          "urdu_question": "(25 + 5) ÷ (10 - 5) حل کریں۔",
+                          "options": ["5", "6", "7", "8"],
+                          "answer": "6",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "What is 15% of 400?",
+                          "urdu_question": "400 کا 15 فیصد کیا ہوگا؟",
+                          "options": ["50", "55", "60", "65"],
+                          "answer": "60",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Which of these is a leap year?",
+                          "urdu_question": "ان میں سے کون سا لیپ سال ہے؟",
+                          "options": ["2018", "2019", "2020", "2021"],
+                          "answer": "2020",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "In a certain code, TEA is coded as VGC. How is CUP coded?",
+                          "urdu_question": "اگر TEA کو VGC کوڈ کیا جائے تو CUP کو کس طرح کوڈ کیا جائے گا؟",
+                          "options": ["EWR", "EVR", "EXR", "EYS"],
+                          "answer": "EWR",
+                          "difficulty": "hard"
+                        },
+                        {
+                          "question": "Which animal is known for changing its color?",
+                          "urdu_question": "کون سا جانور اپنا رنگ بدلنے کے لیے جانا جاتا ہے؟",
+                          "options": ["Chameleon", "Lion", "Eagle", "Shark"],
+                          "answer": "Chameleon",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "If you walk 6 km west and 8 km north, how far are you from the starting point?",
+                          "urdu_question": "اگر آپ 6 کلومیٹر مغرب اور 8 کلومیٹر شمال کی طرف چلیں تو شروعاتی مقام سے کتنا فاصلہ ہوگا؟",
+                          "options": ["8 km", "9 km", "10 km", "12 km"],
+                          "answer": "10 km",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "Which shape has 8 sides?",
+                          "urdu_question": "کس شکل کے 8 اطراف ہوتے ہیں؟",
+                          "options": ["Hexagon", "Heptagon", "Octagon", "Nonagon"],
+                          "answer": "Octagon",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Which element is represented by 'O' in chemistry?",
+                          "urdu_question": "کیمسٹری میں 'O' کس عنصر کی نمائندگی کرتا ہے؟",
+                          "options": ["Gold", "Oxygen", "Silver", "Iron"],
+                          "answer": "Oxygen",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Complete the series: 2, 6, 12, 20, 30, ___?",
+                          "urdu_question": "سلسلہ مکمل کریں: 2، 6، 12، 20، 30، ___؟",
+                          "options": ["40", "42", "44", "46"],
+                          "answer": "42",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "If it is 6:45 PM now, what will the time be after 3 hours and 30 minutes?",
+                          "urdu_question": "اگر ابھی 6:45 شام کا وقت ہے تو 3 گھنٹے 30 منٹ بعد کیا وقت ہوگا؟",
+                          "options": ["9:45 PM", "10:15 PM", "10:30 PM", "11:00 PM"],
+                          "answer": "10:15 PM",
+                          "difficulty": "medium"
+                        },
+                        {
+                          "question": "Which is the coldest planet in the solar system?",
+                          "urdu_question": "سورج کے نظام میں سب سے ٹھنڈا سیارہ کون سا ہے؟",
+                          "options": ["Neptune", "Uranus", "Mars", "Saturn"],
+                          "answer": "Uranus",
+                          "difficulty": "hard"
+                        },
+                        {
+                          "question": "Which is the odd one: Table, Chair, Sofa, Tree?",
+                          "urdu_question": "ان میں سے مختلف چیز کون سی ہے: میز، کرسی، صوفہ، درخت؟",
+                          "options": ["Table", "Chair", "Sofa", "Tree"],
+                          "answer": "Tree",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Solve: 45 ÷ (9 - 4)",
+                          "urdu_question": "45 ÷ (9 - 4) حل کریں۔",
+                          "options": ["7", "8", "9", "10"],
+                          "answer": "9",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "What is the capital city of Italy?",
+                          "urdu_question": "اٹلی کا دارالحکومت کون سا ہے؟",
+                          "options": ["Milan", "Rome", "Venice", "Naples"],
+                          "answer": "Rome",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Find the next number in the pattern: 1, 2, 6, 24, ___?",
+                          "urdu_question": "اگلا نمبر تلاش کریں: 1، 2، 6، 24، ___؟",
+                          "options": ["60", "90", "100", "120"],
+                          "answer": "120",
+                          "difficulty": "hard"
+                        },
+                        {
+                          "question": "Which number is even: 13, 17, 18, 23?",
+                          "urdu_question": "کون سا نمبر جفت (even) ہے: 13، 17، 18، 23؟",
+                          "options": ["13", "17", "18", "23"],
+                          "answer": "18",
+                          "difficulty": "easy"
+                        },
+                        {
+                          "question": "Find the missing number: 4, 9, 16, 25, ___?",
+                          "urdu_question": "غائب نمبر تلاش کریں: 4، 9، 16، 25، ___؟",
+                          "options": ["30", "35", "36", "41"],
+                          "answer": "36",
+                          "difficulty": "easy"
+                        },
+                    
+                            {
+                              "question": "What is 8 multiplied by 7?",
+                              "urdu_question": "8 کو 7 سے ضرب دینے پر کیا حاصل ہوگا؟",
+                              "options": ["54", "56", "58", "60"],
+                              "answer": "56",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Which number comes next: 11, 13, 15, 17, ___?",
+                              "urdu_question": "اگلا نمبر کیا ہوگا: 11، 13، 15، 17، ___؟",
+                              "options": ["18", "19", "20", "21"],
+                              "answer": "19",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Find the missing number: 2, 5, 10, 17, ___?",
+                              "urdu_question": "غائب نمبر تلاش کریں: 2، 5، 10، 17، ___؟",
+                              "options": ["24", "26", "28", "30"],
+                              "answer": "26",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "Which country is known as the Land of the Rising Sun?",
+                              "urdu_question": "کس ملک کو طلوع ہوتے سورج کی سرزمین کہا جاتا ہے؟",
+                              "options": ["Japan", "China", "India", "Thailand"],
+                              "answer": "Japan",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "If you rearrange the word 'RACECAR', what do you get?",
+                              "urdu_question": "اگر آپ RACECAR کے حروف کو ترتیب دیں تو کیا حاصل ہوگا؟",
+                              "options": ["A fruit", "A palindrome", "A country", "An animal"],
+                              "answer": "A palindrome",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "Solve: (12 + 6) ÷ 3",
+                              "urdu_question": "(12 + 6) ÷ 3 حل کریں۔",
+                              "options": ["5", "6", "7", "8"],
+                              "answer": "6",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Which one is not a fruit: Apple, Banana, Carrot, Mango?",
+                              "urdu_question": "ان میں سے کون سا پھل نہیں ہے: سیب، کیلا، گاجر، آم؟",
+                              "options": ["Apple", "Banana", "Carrot", "Mango"],
+                              "answer": "Carrot",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "What is 20% of 600?",
+                              "urdu_question": "600 کا 20 فیصد کیا ہوگا؟",
+                              "options": ["100", "110", "120", "130"],
+                              "answer": "120",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Find the missing letter: A, D, G, J, ___?",
+                              "urdu_question": "غائب حرف تلاش کریں: A، D، G، J، ___؟",
+                              "options": ["K", "M", "N", "O"],
+                              "answer": "M",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "Which number is a prime number: 15, 17, 21, 25?",
+                              "urdu_question": "کون سا نمبر عدد اول ہے: 15، 17، 21، 25؟",
+                              "options": ["15", "17", "21", "25"],
+                              "answer": "17",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "If a car travels 100 km in 2 hours, what is its speed?",
+                              "urdu_question": "اگر ایک کار 2 گھنٹوں میں 100 کلومیٹر طے کرے تو اس کی رفتار کتنی ہوگی؟",
+                              "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+                              "answer": "50 km/h",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Which is the odd one: Finger, Hand, Toe, Foot?",
+                              "urdu_question": "الگ چیز تلاش کریں: انگلی، ہاتھ، پیر، پاؤں؟",
+                              "options": ["Finger", "Hand", "Toe", "Foot"],
+                              "answer": "Hand",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "What is the next number: 1, 4, 9, 16, ___?",
+                              "urdu_question": "اگلا نمبر کیا ہوگا: 1، 4، 9، 16، ___؟",
+                              "options": ["20", "24", "25", "30"],
+                              "answer": "25",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "A man bought 3 pens for 90 rupees. What is the cost of one pen?",
+                              "urdu_question": "ایک شخص نے 3 قلم 90 روپے میں خریدے۔ ایک قلم کی قیمت کتنی ہے؟",
+                              "options": ["20", "25", "30", "35"],
+                              "answer": "30",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "If tomorrow is Friday, what day was yesterday?",
+                              "urdu_question": "اگر کل جمعہ ہے تو کل کون سا دن تھا؟",
+                              "options": ["Tuesday", "Wednesday", "Thursday", "Monday"],
+                              "answer": "Wednesday",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "Which one is heavier: 500 grams or 0.6 kilograms?",
+                              "urdu_question": "کون زیادہ وزنی ہے: 500 گرام یا 0.6 کلوگرام؟",
+                              "options": ["500 grams", "0.6 kilograms", "Both are same", "Cannot say"],
+                              "answer": "0.6 kilograms",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "What is the capital of Germany?",
+                              "urdu_question": "جرمنی کا دارالحکومت کیا ہے؟",
+                              "options": ["Frankfurt", "Berlin", "Munich", "Hamburg"],
+                              "answer": "Berlin",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "What is the sum of interior angles of a quadrilateral?",
+                              "urdu_question": "چوکور کی تمام اندرونی زاویوں کا مجموعہ کیا ہوتا ہے؟",
+                              "options": ["180°", "270°", "360°", "540°"],
+                              "answer": "360°",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "Which country is known for the Taj Mahal?",
+                              "urdu_question": "تاج محل کس ملک میں واقع ہے؟",
+                              "options": ["Pakistan", "India", "Bangladesh", "Nepal"],
+                              "answer": "India",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Solve: (8 × 5) + (12 ÷ 4)",
+                              "urdu_question": "(8 × 5) + (12 ÷ 4) حل کریں۔",
+                              "options": ["40", "41", "42", "44"],
+                              "answer": "42",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "Which number comes next: 7, 14, 28, 56, ___?",
+                              "urdu_question": "اگلا نمبر کیا ہوگا: 7، 14، 28، 56، ___؟",
+                              "options": ["84", "100", "112", "120"],
+                              "answer": "112",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "If you rearrange the word 'RACT' you can form the name of a ___?",
+                              "urdu_question": "اگر آپ RACT کو ترتیب دیں تو آپ کس چیز کا نام بنا سکتے ہیں؟",
+                              "options": ["Animal", "Vehicle", "Fruit", "City"],
+                              "answer": "Vehicle (Car)",
+                              "difficulty": "hard"
+                            },
+                            {
+                              "question": "Which gas is used by plants during photosynthesis?",
+                              "urdu_question": "پودے ضیائی تالیف (Photosynthesis) کے دوران کون سی گیس استعمال کرتے ہیں؟",
+                              "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+                              "answer": "Carbon Dioxide",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "What comes next: Monday, Wednesday, Friday, ___?",
+                              "urdu_question": "اگلا دن کیا ہوگا: پیر، بدھ، جمعہ، ___؟",
+                              "options": ["Saturday", "Sunday", "Monday", "Tuesday"],
+                              "answer": "Sunday",
+                              "difficulty": "medium"
+                            },
+                            {
+                              "question": "If a man earns 1500 rupees daily, how much will he earn in 7 days?",
+                              "urdu_question": "اگر ایک شخص روزانہ 1500 روپے کماتا ہے تو 7 دن میں کتنے روپے کمائے گا؟",
+                              "options": ["9500", "10000", "10500", "11000"],
+                              "answer": "10500",
+                              "difficulty": "easy"
+                            },
+                            {
+                              "question": "Which number is missing: 3, 6, 12, 24, ___?",
+                              "urdu_question": "کون سا نمبر غائب ہے: 3، 6، 12، 24، ___؟",
+                              "options": ["36", "42", "48", "54"],
+                              "answer": "48",
+                              "difficulty": "easy"
+                            },
+                                {
+                                  "question": "What is 18 divided by 3?",
+                                  "urdu_question": "18 کو 3 سے تقسیم کرنے پر کیا حاصل ہوگا؟",
+                                  "options": ["5", "6", "7", "8"],
+                                  "answer": "6",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "Find the missing number: 100, 90, 80, ___, 60",
+                                  "urdu_question": "غائب نمبر تلاش کریں: 100، 90، 80، ___، 60",
+                                  "options": ["65", "70", "75", "85"],
+                                  "answer": "70",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "If 6 pens cost 300 rupees, how much for 10 pens?",
+                                  "urdu_question": "اگر 6 قلموں کی قیمت 300 روپے ہے تو 10 قلموں کی قیمت کتنی ہوگی؟",
+                                  "options": ["450", "500", "550", "600"],
+                                  "answer": "500",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "Which gas do humans need for breathing?",
+                                  "urdu_question": "انسان سانس لینے کے لیے کون سی گیس لیتے ہیں؟",
+                                  "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+                                  "answer": "Oxygen",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "Find the odd one out: Red, Green, Blue, Circle.",
+                                  "urdu_question": "ان میں سے الگ چیز تلاش کریں: سرخ، سبز، نیلا، دائرہ۔",
+                                  "options": ["Red", "Green", "Blue", "Circle"],
+                                  "answer": "Circle",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "Which number comes next: 6, 12, 24, 48, ___?",
+                                  "urdu_question": "اگلا نمبر کیا ہوگا: 6، 12، 24، 48، ___؟",
+                                  "options": ["60", "72", "84", "96"],
+                                  "answer": "96",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "If today is Saturday, what day was it 3 days ago?",
+                                  "urdu_question": "اگر آج ہفتہ ہے تو تین دن پہلے کون سا دن تھا؟",
+                                  "options": ["Wednesday", "Thursday", "Friday", "Tuesday"],
+                                  "answer": "Wednesday",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "What is 35% of 200?",
+                                  "urdu_question": "200 کا 35 فیصد کیا ہوگا؟",
+                                  "options": ["60", "65", "70", "75"],
+                                  "answer": "70",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "Solve: (15 × 2) + (18 ÷ 3)",
+                                  "urdu_question": "(15 × 2) + (18 ÷ 3) حل کریں۔",
+                                  "options": ["36", "39", "40", "42"],
+                                  "answer": "39",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "A person spends Rs 600 on food, Rs 400 on rent, and saves Rs 200. What is his income?",
+                                  "urdu_question": "ایک شخص 600 روپے کھانے پر، 400 روپے کرائے پر خرچ کرتا ہے اور 200 روپے بچاتا ہے۔ اس کی آمدنی کتنی ہے؟",
+                                  "options": ["1000", "1100", "1200", "1300"],
+                                  "answer": "1200",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "Which element is most abundant in air?",
+                                  "urdu_question": "ہوا میں سب سے زیادہ پایا جانے والا عنصر کون سا ہے؟",
+                                  "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+                                  "answer": "Nitrogen",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "What comes next in pattern: 2, 5, 10, 17, ___?",
+                                  "urdu_question": "اگلا نمبر کیا ہوگا: 2، 5، 10، 17، ___؟",
+                                  "options": ["24", "26", "28", "30"],
+                                  "answer": "26",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "Find the missing letter: P, R, T, V, ___?",
+                                  "urdu_question": "غائب حرف تلاش کریں: P، R، T، V، ___؟",
+                                  "options": ["W", "X", "Y", "Z"],
+                                  "answer": "X",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "If you rearrange 'LEPA' you get the name of a ___?",
+                                  "urdu_question": "اگر آپ LEPA کو ترتیب دیں تو آپ کو کس چیز کا نام ملے گا؟",
+                                  "options": ["Fruit", "Country", "City", "Animal"],
+                                  "answer": "Fruit (Apple)",
+                                  "difficulty": "hard"
+                                },
+                                {
+                                  "question": "Which number is not divisible by 3: 9, 12, 15, 17?",
+                                  "urdu_question": "کون سا نمبر 3 پر تقسیم نہیں ہوتا: 9، 12، 15، 17؟",
+                                  "options": ["9", "12", "15", "17"],
+                                  "answer": "17",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "What is 4 cubed (4³)?",
+                                  "urdu_question": "4 کا مکعب (4³) کیا ہوگا؟",
+                                  "options": ["64", "65", "66", "67"],
+                                  "answer": "64",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "Solve: (20 + 30) ÷ (10 - 5)",
+                                  "urdu_question": "(20 + 30) ÷ (10 - 5) حل کریں۔",
+                                  "options": ["8", "9", "10", "11"],
+                                  "answer": "10",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "If a book is priced at Rs 500 and a 20% discount is offered, find the selling price.",
+                                  "urdu_question": "اگر کتاب کی قیمت 500 روپے ہے اور 20 فیصد رعایت دی جائے تو فروخت کی قیمت کیا ہوگی؟",
+                                  "options": ["390", "400", "410", "420"],
+                                  "answer": "400",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "Find the odd one: Sun, Star, Moon, Planet",
+                                  "urdu_question": "الگ چیز تلاش کریں: سورج، ستارہ، چاند، سیارہ۔",
+                                  "options": ["Sun", "Star", "Moon", "Planet"],
+                                  "answer": "Moon",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "Which planet is known as the Red Planet?",
+                                  "urdu_question": "کس سیارے کو سرخ سیارہ کہا جاتا ہے؟",
+                                  "options": ["Earth", "Mars", "Venus", "Jupiter"],
+                                  "answer": "Mars",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "If the word 'WATER' is reversed, which word is formed?",
+                                  "urdu_question": "اگر 'WATER' کو الٹ کر پڑھیں تو کون سا لفظ بنے گا؟",
+                                  "options": ["RETAW", "RETWA", "RAETW", "RAWET"],
+                                  "answer": "RETAW",
+                                  "difficulty": "hard"
+                                },
+                                {
+                                  "question": "Which animal is known as man's best friend?",
+                                  "urdu_question": "کس جانور کو انسان کا سب سے اچھا دوست کہا جاتا ہے؟",
+                                  "options": ["Cat", "Dog", "Horse", "Cow"],
+                                  "answer": "Dog",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "Find the missing number: 5, 9, 17, 33, ___?",
+                                  "urdu_question": "غائب نمبر تلاش کریں: 5، 9، 17، 33، ___؟",
+                                  "options": ["49", "53", "57", "65"],
+                                  "answer": "65",
+                                  "difficulty": "hard"
+                                },
+                                {
+                                  "question": "If you face east and turn right, which direction are you facing now?",
+                                  "urdu_question": "اگر آپ مشرق کی طرف منہ کریں اور دائیں مڑیں تو کس طرف ہوں گے؟",
+                                  "options": ["South", "West", "North", "East"],
+                                  "answer": "South",
+                                  "difficulty": "medium"
+                                },
+                                {
+                                  "question": "What is 50% of 600?",
+                                  "urdu_question": "600 کا 50 فیصد کیا ہوگا؟",
+                                  "options": ["200", "250", "300", "350"],
+                                  "answer": "300",
+                                  "difficulty": "easy"
+                                },
+                                {
+                                  "question": "Which continent is the largest in size?",
+                                  "urdu_question": "رقبے کے لحاظ سے سب سے بڑا براعظم کون سا ہے؟",
+                                  "options": ["Africa", "Asia", "Europe", "Australia"],
+                                  "answer": "Asia",
+                                  "difficulty": "easy"
+                                },
+                                
+                                    {
+                                      "question": "What is the next number: 4, 8, 12, 16, ___?",
+                                      "urdu_question": "اگلا نمبر کیا ہوگا: 4، 8، 12، 16، ___؟",
+                                      "options": ["18", "20", "22", "24"],
+                                      "answer": "20",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "If 2 shirts cost 1000 rupees, how much will 5 shirts cost?",
+                                      "urdu_question": "اگر 2 قمیضوں کی قیمت 1000 روپے ہے تو 5 قمیضوں کی قیمت کتنی ہوگی؟",
+                                      "options": ["2000", "2500", "3000", "3500"],
+                                      "answer": "2500",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "Which planet is closest to the Earth?",
+                                      "urdu_question": "زمین کے سب سے قریب کون سا سیارہ ہے؟",
+                                      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+                                      "answer": "Venus",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "Which word is a synonym of 'strong'?",
+                                      "urdu_question": "'Strong' کا مترادف لفظ کون سا ہے؟",
+                                      "options": ["Weak", "Brave", "Powerful", "Slow"],
+                                      "answer": "Powerful",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "What comes next: 2, 5, 10, 17, 26, ___?",
+                                      "urdu_question": "اگلا نمبر کیا ہوگا: 2، 5، 10، 17، 26، ___؟",
+                                      "options": ["35", "36", "37", "38"],
+                                      "answer": "37",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "How many sides does a hexagon have?",
+                                      "urdu_question": "چھ کونوں والی شکل کو کیا کہتے ہیں؟",
+                                      "options": ["5", "6", "7", "8"],
+                                      "answer": "6",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "Find the missing number: 1, 3, 7, 15, 31, ___?",
+                                      "urdu_question": "غائب نمبر تلاش کریں: 1، 3، 7، 15، 31، ___؟",
+                                      "options": ["49", "55", "63", "64"],
+                                      "answer": "63",
+                                      "difficulty": "hard"
+                                    },
+                                    {
+                                      "question": "Which gas is needed for burning fire?",
+                                      "urdu_question": "آگ جلانے کے لیے کون سی گیس ضروری ہے؟",
+                                      "options": ["Carbon Dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+                                      "answer": "Oxygen",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "Solve: (50 ÷ 2) + (30 ÷ 3)",
+                                      "urdu_question": "(50 ÷ 2) + (30 ÷ 3) حل کریں۔",
+                                      "options": ["25", "30", "35", "40"],
+                                      "answer": "35",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "Find the odd one out: Pakistan, India, Lahore, Bangladesh",
+                                      "urdu_question": "الگ چیز تلاش کریں: پاکستان، بھارت، لاہور، بنگلہ دیش۔",
+                                      "options": ["Pakistan", "India", "Lahore", "Bangladesh"],
+                                      "answer": "Lahore",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "What is half of 150?",
+                                      "urdu_question": "150 کا آدھا کیا ہوگا؟",
+                                      "options": ["70", "75", "80", "85"],
+                                      "answer": "75",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "Which is heavier: 1000g or 1kg?",
+                                      "urdu_question": "کون زیادہ وزنی ہے: 1000 گرام یا 1 کلو؟",
+                                      "options": ["1000g", "1kg", "Both same", "Cannot say"],
+                                      "answer": "Both same",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "What is the sum of angles in a quadrilateral?",
+                                      "urdu_question": "چوکور شکل کے اندرونی زاویوں کا مجموعہ کیا ہے؟",
+                                      "options": ["360°", "180°", "270°", "90°"],
+                                      "answer": "360°",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "Which number comes next: 13, 17, 21, 25, ___?",
+                                      "urdu_question": "اگلا نمبر کیا ہوگا: 13، 17، 21، 25، ___؟",
+                                      "options": ["27", "28", "29", "30"],
+                                      "answer": "29",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "If a box contains 5 dozen eggs, how many eggs are there?",
+                                      "urdu_question": "اگر ایک ڈبے میں 5 درجن انڈے ہیں تو کل کتنے انڈے ہوں گے؟",
+                                      "options": ["50", "60", "70", "80"],
+                                      "answer": "60",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "What comes next: A, C, F, J, O, ___?",
+                                      "urdu_question": "اگلا حرف کیا ہوگا: A، C، F، J، O، ___؟",
+                                      "options": ["P", "Q", "S", "U"],
+                                      "answer": "U",
+                                      "difficulty": "hard"
+                                    },
+                                    {
+                                      "question": "Find the opposite of 'early'.",
+                                      "urdu_question": "'Early' کا الٹ کیا ہوگا؟",
+                                      "options": ["Fast", "Slow", "Late", "Soon"],
+                                      "answer": "Late",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "If 3 workers build a wall in 12 hours, how many hours will 6 workers take?",
+                                      "urdu_question": "اگر 3 مزدور 12 گھنٹوں میں دیوار بناتے ہیں تو 6 مزدور کتنے گھنٹے لیں گے؟",
+                                      "options": ["4", "6", "8", "10"],
+                                      "answer": "6",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "What is the next number: 81, 64, 49, 36, ___?",
+                                      "urdu_question": "اگلا نمبر کیا ہوگا: 81، 64، 49، 36، ___؟",
+                                      "options": ["20", "24", "25", "30"],
+                                      "answer": "25",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "If you rearrange the letters 'NIPPA', you get the name of a ___?",
+                                      "urdu_question": "اگر آپ NIPPA کو ترتیب دیں تو کیا حاصل ہوگا؟",
+                                      "options": ["Fruit", "City", "Country", "River"],
+                                      "answer": "Country (Pakistan-using PAK)",
+                                      "difficulty": "hard"
+                                    },
+                                    {
+                                      "question": "Which is the odd one: Pen, Paper, Book, Car?",
+                                      "urdu_question": "ان میں سے الگ چیز کون سی ہے: قلم، کاغذ، کتاب، کار؟",
+                                      "options": ["Pen", "Paper", "Book", "Car"],
+                                      "answer": "Car",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "What is 3/4 of 800?",
+                                      "urdu_question": "800 کا تین چوتھائی حصہ کیا ہوگا؟",
+                                      "options": ["500", "600", "700", "750"],
+                                      "answer": "600",
+                                      "difficulty": "medium"
+                                    },
+                                    {
+                                      "question": "Solve: (9 × 3) + (7 × 2)",
+                                      "urdu_question": "(9 × 3) + (7 × 2) حل کریں۔",
+                                      "options": ["29", "31", "33", "35"],
+                                      "answer": "35",
+                                      "difficulty": "easy"
+                                    },
+                                    {
+                                      "question": "Which of the following is not a vegetable: Tomato, Potato, Banana, Carrot?",
+                                      "urdu_question": "ان میں سے کون سبزی نہیں ہے: ٹماٹر، آلو، کیلا، گاجر؟",
+                                      "options": ["Tomato", "Potato", "Banana", "Carrot"],
+                                      "answer": "Banana",
+                                      "difficulty": "easy"
+                                    },
+                                    
+                                        {
+                                          "question": "What is 14 multiplied by 3?",
+                                          "urdu_question": "14 کو 3 سے ضرب دینے پر کیا حاصل ہوگا؟",
+                                          "options": ["42", "44", "46", "48"],
+                                          "answer": "42",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Find the missing number: 9, 18, 36, ___, 144",
+                                          "urdu_question": "غائب نمبر تلاش کریں: 9، 18، 36، ___، 144",
+                                          "options": ["54", "60", "72", "90"],
+                                          "answer": "72",
+                                          "difficulty": "medium"
+                                        },
+                                        {
+                                          "question": "Which animal is called the 'Ship of the Desert'?",
+                                          "urdu_question": "کس جانور کو ریگستان کا جہاز کہا جاتا ہے؟",
+                                          "options": ["Horse", "Camel", "Elephant", "Lion"],
+                                          "answer": "Camel",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Solve: (8 × 5) ÷ 2",
+                                          "urdu_question": "(8 × 5) ÷ 2 حل کریں۔",
+                                          "options": ["18", "19", "20", "21"],
+                                          "answer": "20",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Which word is opposite of 'difficult'?",
+                                          "urdu_question": "'Difficult' کا الٹ کیا ہوگا؟",
+                                          "options": ["Easy", "Hard", "Strong", "Fast"],
+                                          "answer": "Easy",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "If 6 workers complete a task in 10 days, how many days will 3 workers take?",
+                                          "urdu_question": "اگر 6 مزدور 10 دن میں کام مکمل کرتے ہیں تو 3 مزدور کتنے دن لیں گے؟",
+                                          "options": ["15", "18", "20", "25"],
+                                          "answer": "20",
+                                          "difficulty": "medium"
+                                        },
+                                        {
+                                          "question": "Which planet is known for its rings?",
+                                          "urdu_question": "کس سیارے کو اس کے چھلوں کے لیے جانا جاتا ہے؟",
+                                          "options": ["Jupiter", "Saturn", "Mars", "Venus"],
+                                          "answer": "Saturn",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Find the odd one: Bat, Ball, Wicket, Table",
+                                          "urdu_question": "الگ چیز تلاش کریں: بلا، گیند، وکٹ، میز",
+                                          "options": ["Bat", "Ball", "Wicket", "Table"],
+                                          "answer": "Table",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Complete the series: 1, 4, 9, 16, ___",
+                                          "urdu_question": "سلسلہ مکمل کریں: 1، 4، 9، 16، ___؟",
+                                          "options": ["20", "24", "25", "30"],
+                                          "answer": "25",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "If it is 3 PM now, what will be the time after 250 minutes?",
+                                          "urdu_question": "اگر ابھی 3 بجے ہیں تو 250 منٹ بعد کیا وقت ہوگا؟",
+                                          "options": ["6:30 PM", "7:00 PM", "7:10 PM", "7:20 PM"],
+                                          "answer": "7:10 PM",
+                                          "difficulty": "hard"
+                                        },
+                                        {
+                                          "question": "Which number is divisible by 6: 18, 20, 22, 25?",
+                                          "urdu_question": "ان میں سے کون سا نمبر 6 پر پورا تقسیم ہوتا ہے: 18، 20، 22، 25؟",
+                                          "options": ["18", "20", "22", "25"],
+                                          "answer": "18",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Find the missing number: 5, 11, 17, 23, ___",
+                                          "urdu_question": "غائب نمبر تلاش کریں: 5، 11، 17، 23، ___؟",
+                                          "options": ["29", "30", "31", "32"],
+                                          "answer": "29",
+                                          "difficulty": "medium"
+                                        },
+                                        {
+                                          "question": "Which is not a mammal: Cow, Whale, Penguin, Dog?",
+                                          "urdu_question": "ان میں سے کون سا دودھ پلانے والا جانور نہیں ہے: گائے، وہیل، پینگوئن، کتا؟",
+                                          "options": ["Cow", "Whale", "Penguin", "Dog"],
+                                          "answer": "Penguin",
+                                          "difficulty": "medium"
+                                        },
+                                        {
+                                          "question": "If a car travels at 60 km/h, how long will it take to cover 180 km?",
+                                          "urdu_question": "اگر کار 60 کلومیٹر فی گھنٹہ کی رفتار سے چلے تو 180 کلومیٹر طے کرنے میں کتنا وقت لگے گا؟",
+                                          "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+                                          "answer": "3 hours",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Rearrange 'NATPAI' to form the name of a ___?",
+                                          "urdu_question": "NATPAI کو ترتیب دے کر کس چیز کا نام بنے گا؟",
+                                          "options": ["Animal", "Country", "Fruit", "City"],
+                                          "answer": "Country (PAKISTAN)",
+                                          "difficulty": "hard"
+                                        },
+                                        {
+                                          "question": "What comes next: Monday, Thursday, Sunday, Wednesday, ___?",
+                                          "urdu_question": "اگلا دن کیا ہوگا: پیر، جمعرات، اتوار، بدھ، ___؟",
+                                          "options": ["Friday", "Saturday", "Tuesday", "Thursday"],
+                                          "answer": "Saturday",
+                                          "difficulty": "hard"
+                                        },
+                                        {
+                                          "question": "What is 5 squared (5²)?",
+                                          "urdu_question": "5 کا مربع (5²) کیا ہے؟",
+                                          "options": ["20", "24", "25", "30"],
+                                          "answer": "25",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Which number is missing: 3, 7, 15, 31, ___?",
+                                          "urdu_question": "غائب نمبر کیا ہے: 3، 7، 15، 31، ___؟",
+                                          "options": ["61", "63", "65", "67"],
+                                          "answer": "63",
+                                          "difficulty": "hard"
+                                        },
+                                        {
+                                          "question": "What is 25% of 1200?",
+                                          "urdu_question": "1200 کا 25 فیصد کیا ہوگا؟",
+                                          "options": ["200", "300", "400", "500"],
+                                          "answer": "300",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Which city is known as the 'City of Gardens'?",
+                                          "urdu_question": "کس شہر کو باغوں کا شہر کہا جاتا ہے؟",
+                                          "options": ["Karachi", "Islamabad", "Lahore", "Multan"],
+                                          "answer": "Lahore",
+                                          "difficulty": "easy"
+                                        },
+                                        {
+                                          "question": "Solve: (9 × 9) - (6 × 6)",
+                                          "urdu_question": "(9 × 9) - (6 × 6) حل کریں۔",
+                                          "options": ["25", "27", "30", "33"],
+                                          "answer": "27",
+                                          "difficulty": "medium"
+                                        },
+                                        {
+                                          "question": "If today is Friday, what day will it be after 12 days?",
+                                          "urdu_question": "اگر آج جمعہ ہے تو 12 دن بعد کون سا دن ہوگا؟",
+                                          "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+                                          "answer": "Wednesday",
+                                          "difficulty": "medium"
+                                        },
+                                        {
+                                          "question": "Which element has the chemical symbol 'Fe'?",
+                                          "urdu_question": "'Fe' کس عنصر کا کیمیکل نشان ہے؟",
+                                          "options": ["Fluorine", "Iron", "Zinc", "Copper"],
+                                          "answer": "Iron",
+                                          "difficulty": "easy"
+                                        },
+                                        
+                                            {
+                                              "question": "What is the next number: 10, 20, 30, 40, ___?",
+                                              "urdu_question": "اگلا نمبر کیا ہوگا: 10، 20، 30، 40، ___؟",
+                                              "options": ["45", "50", "55", "60"],
+                                              "answer": "50",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Which gas do plants release during photosynthesis?",
+                                              "urdu_question": "ضیائی تالیف کے دوران پودے کون سی گیس خارج کرتے ہیں؟",
+                                              "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+                                              "answer": "Oxygen",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Find the missing letter: D, G, J, M, ___?",
+                                              "urdu_question": "غائب حرف تلاش کریں: D، G، J، M، ___؟",
+                                              "options": ["N", "O", "P", "Q"],
+                                              "answer": "P",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Which number is an odd number: 16, 18, 21, 24?",
+                                              "urdu_question": "کون سا نمبر طاق (Odd) ہے: 16، 18، 21، 24؟",
+                                              "options": ["16", "18", "21", "24"],
+                                              "answer": "21",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Solve: (15 × 2) + (18 ÷ 3)",
+                                              "urdu_question": "(15 × 2) + (18 ÷ 3) حل کریں۔",
+                                              "options": ["32", "35", "36", "39"],
+                                              "answer": "39",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Rearrange 'PRYA' to form the name of a ___?",
+                                              "urdu_question": "'PRYA' کو ترتیب دیں تو کیا حاصل ہوگا؟",
+                                              "options": ["Fruit", "City", "Animal", "Country"],
+                                              "answer": "City (Prayagraj)",
+                                              "difficulty": "hard"
+                                            },
+                                            {
+                                              "question": "Which metal is used in making wires because it is a good conductor?",
+                                              "urdu_question": "کون سا دھات تار بنانے میں استعمال ہوتا ہے کیونکہ یہ اچھا موصل ہے؟",
+                                              "options": ["Gold", "Copper", "Silver", "Iron"],
+                                              "answer": "Copper",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "If 1 box holds 24 bottles, how many bottles are in 5 boxes?",
+                                              "urdu_question": "اگر ایک ڈبہ 24 بوتلیں رکھتا ہے تو 5 ڈبوں میں کتنی بوتلیں ہوں گی؟",
+                                              "options": ["100", "110", "120", "130"],
+                                              "answer": "120",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Find the missing number: 100, 97, 94, 91, ___?",
+                                              "urdu_question": "غائب نمبر تلاش کریں: 100، 97، 94، 91، ___؟",
+                                              "options": ["88", "89", "90", "87"],
+                                              "answer": "88",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Which is the odd one: Pen, Pencil, Eraser, Glass?",
+                                              "urdu_question": "الگ چیز تلاش کریں: قلم، پنسل، ربر، گلاس۔",
+                                              "options": ["Pen", "Pencil", "Eraser", "Glass"],
+                                              "answer": "Glass",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Which city is known as the 'City of Love'?",
+                                              "urdu_question": "کس شہر کو محبت کا شہر کہا جاتا ہے؟",
+                                              "options": ["Paris", "Rome", "Venice", "London"],
+                                              "answer": "Paris",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "What is 10% of 750?",
+                                              "urdu_question": "750 کا 10 فیصد کیا ہوگا؟",
+                                              "options": ["70", "75", "80", "85"],
+                                              "answer": "75",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Find the missing number: 8, 16, 32, ___, 128",
+                                              "urdu_question": "غائب نمبر تلاش کریں: 8، 16، 32، ___، 128",
+                                              "options": ["48", "64", "72", "80"],
+                                              "answer": "64",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "If today is Wednesday, what day was it 9 days ago?",
+                                              "urdu_question": "اگر آج بدھ ہے تو 9 دن پہلے کون سا دن تھا؟",
+                                              "options": ["Sunday", "Monday", "Tuesday", "Saturday"],
+                                              "answer": "Monday",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Solve: (24 ÷ 6) × (9 ÷ 3)",
+                                              "urdu_question": "(24 ÷ 6) × (9 ÷ 3) حل کریں۔",
+                                              "options": ["8", "10", "12", "14"],
+                                              "answer": "12",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Which animal can fly: Dog, Cat, Crow, Goat?",
+                                              "urdu_question": "ان میں سے کون سا جانور اڑ سکتا ہے: کتا، بلی، کوا، بکری؟",
+                                              "options": ["Dog", "Cat", "Crow", "Goat"],
+                                              "answer": "Crow",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "Find the next number: 50, 45, 40, ___?",
+                                              "urdu_question": "اگلا نمبر کیا ہوگا: 50، 45، 40، ___؟",
+                                              "options": ["30", "35", "36", "38"],
+                                              "answer": "35",
+                                              "difficulty": "easy"
+                                            },
+                                            {
+                                              "question": "If 1 litre of oil costs 240 rupees, what will be the cost of 2.5 litres?",
+                                              "urdu_question": "اگر 1 لیٹر تیل کی قیمت 240 روپے ہے تو 2.5 لیٹر کی قیمت کتنی ہوگی؟",
+                                              "options": ["550", "580", "600", "620"],
+                                              "answer": "600",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Which number is missing: 2, 6, 12, 20, ___?",
+                                              "urdu_question": "غائب نمبر کیا ہوگا: 2، 6، 12، 20، ___؟",
+                                              "options": ["28", "30", "32", "34"],
+                                              "answer": "30",
+                                              "difficulty": "medium"
+                                            },
+                                            {
+                                              "question": "Which of the following is not a primary color: Red, Yellow, Green, Blue?",
+                                              "urdu_question": "ان میں سے کون سا بنیادی رنگ نہیں ہے: سرخ، پیلا، سبز، نیلا؟",
+                                              "options": ["Red", "Yellow", "Green", "Blue"],
+                                              "answer": "Green",
+                                              "difficulty": "medium"
+                                            }
+                                          
+                                      
+                                
+                      
+                     
+  ]
+  
