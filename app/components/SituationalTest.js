@@ -1,38 +1,40 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { generateQuestions } from '../utils/geminiService';
+import { getSituationalQuestions } from '../utils/firestoreService';
 import styles from './SituationalTest.module.css';
 
-const SituationalTest = ({ onSubmit, personalInfo }) => {
+const SituationalTest = ({ onSubmit, personalInfo, jobTitle, jobDescription }) => {
   const [questions, setQuestions] = useState([]);
   const [answers, setAnswers] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Load questions from Gemini API
+    // Load pre-generated questions from Firestore
     const loadQuestions = async () => {
       try {
         setLoading(true);
         
-        // Hardcoded job title and description for now
-        // In a real scenario, these could be from user input or configuration
-        const jobTitle = "Software Developer";
-        const jobDescription = "Responsible for designing, developing, and maintaining software applications. Works with team members to deliver high-quality code, troubleshoot issues, and implement new features.";
+        // Create the form ID from the job title
+        const formId = jobTitle
+          .toLowerCase()
+          .replace(/[^\w\s]/gi, '')
+          .replace(/\s+/gi, '-');
         
-        const generatedQuestions = await generateQuestions(jobTitle, jobDescription);
-        console.log(generatedQuestions);
-        setQuestions(generatedQuestions);
+        // Fetch questions from Firestore
+        const storedQuestions = await getSituationalQuestions(formId);
+        console.log(`Loaded ${storedQuestions.length} pre-generated questions for ${jobTitle}`);
+        setQuestions(storedQuestions);
         setLoading(false);
       } catch (err) {
         console.error("Error loading questions:", err);
-        setError("Failed to generate questions. Please try again.");
+        setError("Failed to load pre-generated questions. Please contact the administrator.");
         setLoading(false);
       }
     };
 
     loadQuestions();
-  }, []);
+  }, [jobTitle]);
 
   const handleAnswerChange = (questionIndex, selectedAnswer) => {
     setAnswers(prev => ({
@@ -51,6 +53,8 @@ const SituationalTest = ({ onSubmit, personalInfo }) => {
     
     // Prepare results
     const results = {
+      jobTitle,
+      jobDescription,
       totalQuestions: questions.length,
       questions: questions.map((q, index) => ({
         questionNumber: index + 1,
@@ -66,17 +70,13 @@ const SituationalTest = ({ onSubmit, personalInfo }) => {
     onSubmit(results);
   };
 
-  if (loading) {
-    return <div className={styles.loading}>Generating situational questions...</div>;
-  }
-
   if (error) {
     return <div className={styles.error}>{error}</div>;
   }
 
   return (
     <div className={styles.situationalContainer}>
-      <h2 className={styles.title}>Situational Assessment</h2>
+      <h2 className={styles.title}>Situational Assessment for {jobTitle || 'Job Position'}</h2>
       <div className={styles.instructions}>
         <p>• Below are various workplace scenarios you might encounter</p>
         <p>• For each situation, choose the option that best describes how you would respond</p>

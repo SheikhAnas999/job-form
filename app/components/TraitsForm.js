@@ -1,9 +1,8 @@
 'use client';
 import { useState, useEffect } from 'react';
 import styles from './TraitsForm.module.css';
-import traitQuestions from '../data/traitQuestions';
 
-const TraitsForm = ({ onSubmit }) => {
+const TraitsForm = ({ onSubmit, customTraits = [], generatedTraitQuestions = [] }) => {
   const [questions, setQuestions] = useState([]);
   const [formData, setFormData] = useState({
     personalInfo: {
@@ -14,19 +13,31 @@ const TraitsForm = ({ onSubmit }) => {
   });
 
   useEffect(() => {
-    // Use the hardcoded questions from the traitQuestions file
-    setQuestions(traitQuestions);
+    // Check if we have generated trait questions from Gemini
+    const fetchFormData = async () => {
+      let traitsToUse = [];
+      
+      if (generatedTraitQuestions && generatedTraitQuestions.length > 0) {
+        // Use AI-generated trait questions if available
+        traitsToUse = generatedTraitQuestions;
+        console.log("Using AI-generated trait questions:", traitsToUse);
+      }
+      
+      setQuestions(traitsToUse);
+
+      // Initialize formData with question traits
+      const initialAnswers = {};
+      traitsToUse.forEach((question, index) => {
+        initialAnswers[`question_${index}`] = '';
+      });
+      setFormData(prev => ({
+        ...prev,
+        answers: initialAnswers
+      }));
+    };
     
-    // Initialize formData with question traits
-    const initialAnswers = {};
-    traitQuestions.forEach((question, index) => {
-      initialAnswers[`question_${index}`] = '';
-    });
-    setFormData(prev => ({
-      ...prev,
-      answers: initialAnswers
-    }));
-  }, []);
+    fetchFormData();
+  }, [customTraits, generatedTraitQuestions]);
 
   const handlePersonalInfoChange = (e) => {
     const { name, value } = e.target;
@@ -60,20 +71,23 @@ const TraitsForm = ({ onSubmit }) => {
       return;
     }
 
-    onSubmit({
-      personalInfo: formData.personalInfo,
-      answers: Object.entries(formData.answers).map(([key, value]) => {
+    // Transform answers into an array for easier processing
+    const answersArray = Object.entries(formData.answers).map(([key, value]) => {
         const questionIndex = parseInt(key.split('_')[1]);
         const questionDetails = questions[questionIndex];
         return {
           questionNumber: questionIndex + 1,
-          trait: value.trait,
+          trait: value.trait || questionDetails.trait,
           question: questionDetails.english,
           questionUrdu: questionDetails.urdu,
           response: value.answer,
           options: ['agree', 'neutral', 'disagree']
         };
-      })
+    });
+
+    onSubmit({
+      personalInfo: formData.personalInfo,
+      answers: answersArray
     });
   };
 
@@ -148,7 +162,7 @@ const TraitsForm = ({ onSubmit }) => {
           <div key={index} className={styles.questionGroup}>
             <div className={styles.questionText}>
               <h2 className={styles.englishQuestion}>{index + 1}. {question.english}</h2>
-              <h2 className={styles.urduQuestion}>{question.urdu}</h2>
+              {question.urdu && <h2 className={styles.urduQuestion}>{question.urdu}</h2>}
             </div>
             <div className={styles.options}>
               <label>
@@ -187,8 +201,7 @@ const TraitsForm = ({ onSubmit }) => {
               </label>
             </div>
           </div>
-        ))}
-        <button type="submit" className={styles.submitButton}>Next</button>
+        ))}        <button type="submit" className={styles.submitButton}>Next</button>
       </form>
     </div>
   );
